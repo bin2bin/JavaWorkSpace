@@ -63,7 +63,6 @@ public class _05_For {
         }
         System.out.println("1부터 10까지의 모든 수의 총합은 " + sum + "입니다.");
 
-
     }
 
 }
